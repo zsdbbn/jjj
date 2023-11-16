@@ -1,0 +1,8 @@
+{
+    "app_id": "application-1-lpikb",
+    "config_version": 20210101,
+    "name": "Application-1",
+    "location": "IN-MB",
+    "provider_region": "azure-eastasia",
+    "deployment_model": "LOCAL"
+}
